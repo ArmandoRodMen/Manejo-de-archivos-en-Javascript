@@ -1,14 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Teclado",
-    "description": "RGB mecánico",
-    "price": 250,
-    "thumbnail": "https://m.media-amazon.com/images/I/61CJJ297IJL._AC_SL1200_.jpg",
-    "code": "P1",
-    "stock": 8
-  },
-  {
     "id": 2,
     "title": "Mouse",
     "description": "RGB inalámbrico",
